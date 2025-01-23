@@ -12,9 +12,9 @@ public class Main {
         post.subscription = true;
 
         post.birthday = new FormDate();
-        post.birthday.day = "01";
-        post.birthday.month = "01";
-        post.birthday.year = "1967";
+        post.birthday.day = 1;
+        post.birthday.month = "март";
+        post.birthday.year = 1967;
 
     }
 }

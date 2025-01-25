@@ -2,6 +2,6 @@ package netology.personalData;
 
 public class FormDate {
     public int day;
-    public String month;
+    public int month;
     public int year;
 }

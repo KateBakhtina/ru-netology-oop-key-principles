@@ -13,7 +13,7 @@ public class Main {
 
         post.birthday = new FormDate();
         post.birthday.day = 1;
-        post.birthday.month = "март";
+        post.birthday.month = 3;
         post.birthday.year = 1967;
 
     }
